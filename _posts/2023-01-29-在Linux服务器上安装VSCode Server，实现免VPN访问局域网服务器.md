@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: 在Linux服务器上安装VSCode Server，实现免VPN访问局域网服务器
 tags: TeXt
 ---
 
 
-Update in 2022
+Update in 2023
 
 <img src="assets/pic1.png" >
 
