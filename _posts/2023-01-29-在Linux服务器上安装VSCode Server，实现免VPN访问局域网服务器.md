@@ -1,6 +1,6 @@
 ---
 title: 在Linux服务器上安装VSCode Server，实现免VPN访问局域网服务器
-tags: TeXt
+tags: Linux
 ---
 
 
@@ -32,9 +32,10 @@ tags: TeXt
 然后给当前服务器起一个名字，长度不能超过20。
 ![4](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/4.png)
 
-在自己电脑上的 VSCode 中安装这个 Remote-Tunnels 插件，便可以看到服务器了。另外作者把 VSCode Server 跑在了 tmux 里，这样就可以一直开着了。
+在自己电脑上的 VSCode 中安装这个 Remote-Tunnels 插件，便可以看到服务器了，或者打开它提供的链接直接在浏览器上写代码。。另外作者把 VSCode Server 跑在了 tmux 里，这样就可以一直开着了。
 ![5](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/5.png)
 ![6](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/6.png)
+![7](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/7.png)
 
 
 
