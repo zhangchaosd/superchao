@@ -13,7 +13,7 @@ tags: TeXt
 - 打开代码比较慢，输入命令也比较卡。原因是 Linux 服务器和写代码的客户端都需要和 VSCode 的服务器通信，我感觉和 VPN + SSH 体验差距比较大，也是我放弃的原因。
 ## 步骤
 下载 CLI 客户端到服务器上，解压之后就是一个文件名为 `code` 的可执行文件，然后运行 `./code tunnel`
-
+![0](https://github.com/zhangchaosd/superchao/blob/master/_posts/assets/20230130/0.png)
 <img src="/assets/pic1.png" >
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
