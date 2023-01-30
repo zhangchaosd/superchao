@@ -32,7 +32,7 @@ tags: TeXt
 然后给当前服务器起一个名字，长度不能超过20。
 ![4](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/4.png)
 
-在自己电脑上的 VSCode 中安装这个 Remote-Tunnels 插件，便可以看到服务器了。
+在自己电脑上的 VSCode 中安装这个 Remote-Tunnels 插件，便可以看到服务器了。另外作者把 VSCode Server 跑在了 tmux 里，这样就可以一直开着了。
 ![5](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/5.png)
 ![6](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/6.png)
 
