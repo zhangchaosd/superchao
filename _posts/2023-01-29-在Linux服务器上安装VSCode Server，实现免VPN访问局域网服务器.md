@@ -16,18 +16,27 @@ tags: TeXt
 ### 缺点
 - 打开代码比较慢，输入命令也比较卡。原因是 Linux 服务器和写代码的客户端都需要和 VSCode 的服务器通信，我感觉和 VPN + SSH 体验差距比较大，也是我放弃的原因。
 
+
 ## 步骤
 下载 CLI 客户端到服务器上，解压之后就是一个文件名为 `code` 的可执行文件，然后运行 `./code tunnel`
 
 
-![0](https://github.com/zhangchaosd/superchao/blob/master/_posts/assets/20230130/0.png)
+![0](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/0.png)
 
 
-<img src="/assets/pic1.png" >
+直接回车接受，它会显示一个 GitHub 链接和一个八位的字符串，在网页中打开链接输入这个字符串，然后这个服务器便会和你的账户绑定。
+![1](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/1.png)
+![2](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/2.png)
+![3](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/3.png)
 
-If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
+然后给当前服务器起一个名字，长度不能超过20。
+![4](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/4.png)
 
-You may want to [config the site](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration) or [writing a post](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts) next. Please feel free to [create an issue](https://github.com/kitian616/jekyll-TeXt-theme/issues) or [send me email](mailto:kitian616@outlook.com) if you have any questions.
+在自己电脑上的 VSCode 中安装这个 Remote-Tunnels 插件，便可以看到服务器了。
+![5](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/5.png)
+![6](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230130/6.png)
+
+
 
 <!--more-->
 
