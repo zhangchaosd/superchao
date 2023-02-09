@@ -36,7 +36,7 @@ Python 会忽略代码里 []、{} 和 () 中的换行
 ```
 l2 = [fc(itm) for itm in l1]
 ```
-### 2.2.2 列表推导同filter和map的比较
+### 2.2.2 列表推导同 filter 和 map 的比较
 ```
 beyond_ascii = [ord(s) for s in symbols if ord(s) > 127]
 beyond_ascii = list(filter(lambda c: c > 127, map(ord, symbols)))
