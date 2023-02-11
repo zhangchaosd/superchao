@@ -60,7 +60,7 @@ UTF-16 有两个变种:UTF-16LE，显式指明使用小字节序;UTF-16BE，显�
 处理文本的最佳实践是“Unicode 三明治”。
 要尽早把输入(例 如读取文件时)的字节序列解码成字符串。对输出来说，则 要尽量晚地把字符串编码成字节序列。
 
-需要在多台设备中或多种场合下运行的代码，一定不能依赖默认编码。打开文件时始终应该明确传入 encoding= 参数，因为不同的设备使用的默认编码 可能不同，有时隔一天也会发生变化。
+需要在多台设备中或多种场合下运行的代码，一定不能依赖默认编码。打开文件时始终应该明确传入 encoding= 参数，因为不同的设备使用的默认编码可能不同，有时隔一天也会发生变化。
 
 ![0](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230211/0.png)
 
@@ -93,7 +93,7 @@ def fold_equal(str1, str2):
 好像也用不太到，省略。
 
 ## 4.7 Unicode文本排序
-在 Python 中，非 ASCII 文本的标准排序方式是使用 locale.strxfrm 函数。根据 locale 模 块 的 文 档(https://docs.python.org/3/library/locale.html?highlight=strxfrm#locale.strxfrm)， 这个函数会“把字符串转换成适合所在区域进行比较的形式”。
+在 Python 中，非 ASCII 文本的标准排序方式是使用 locale.strxfrm 函数。根据 locale 模块的文档(https://docs.python.org/3/library/locale.html?highlight=strxfrm#locale.strxfrm)，这个函数会“把字符串转换成适合所在区域进行比较的形式”。
 
 直接用 PyUCA 库。
 
