@@ -33,6 +33,3 @@ promos = [globals()[name] for name in globals() if name.endswith('_promo') and n
 ## 6.2 “命令”模式
 ![4](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230212/4.png)
 站在一定高度上看，这里采用的方式 与“策略”模式所用的类似:把实现单方法接口的类的实例替换成可调用对象。毕竟，每个 Python 可调用对象都实现了单方法接口，这个方法就是 `__call__`。
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: Fluent Python 笔记 第 5 章 一等函数
-tags: Python
+tags: Python 函数式编程
 pageview: true
 ---
 
