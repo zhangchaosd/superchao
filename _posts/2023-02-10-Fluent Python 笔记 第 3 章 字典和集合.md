@@ -130,7 +130,7 @@ d_proxy = MappingProxyType(d)
 
 ## 3.8 集合论
 
-集合中的元素必须是可散列的，set 类型本身是不可散列的，但是 frozenset 可以。因此 可以创建一个包含不同 frozenset 的 set。
+集合中的元素必须是可散列的，set 类型本身是不可散列的，但是 frozenset 可以。因此可以创建一个包含不同 frozenset 的 set。
 
 ### 3.8.1 集合字面量
 
