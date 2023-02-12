@@ -1,5 +1,5 @@
 ---
-title: Fluent Python 笔记 第 7 章 函数装饰器和闭包.md
+title: Fluent Python 笔记 第 7 章 函数装饰器和闭包
 tags: Python
 pageview: true
 ---
