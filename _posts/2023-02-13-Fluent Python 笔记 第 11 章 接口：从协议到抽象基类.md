@@ -105,11 +105,3 @@ Sequence.register(memoryview)
 ```
 
 ## 11.10 鹅的行为有可能像鸭子
-
-
-
-
-
-```
-![6](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230212/6.png)
-```

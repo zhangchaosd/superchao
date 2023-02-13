@@ -1,5 +1,5 @@
 ---
-title: Fluent Python 笔记 第 11 章 接口：从协议到抽象基类
+title: Fluent Python 笔记 第 12 章 继承的优缺点
 tags: Python
 pageview: true
 ---
