@@ -1,10 +1,10 @@
 ---
-title: Fluent Python 笔记 第 8 章 符合 Python 风格的对象
+title: Fluent Python 笔记 第 9 章 符合 Python 风格的对象
 tags: Python
 pageview: true
 ---
 
-得益于 Python 数据模型，自定义类型的行为可以像内置类型那样自然。实现如此自然的行 为，靠的不是继承，而是鸭子类型(duck typing):我们只需按照预定行为实现对象所需 的方法即可。
+得益于 Python 数据模型，自定义类型的行为可以像内置类型那样自然。实现如此自然的行为，靠的不是继承，而是鸭子类型(duck typing)：我们只需按照预定行为实现对象所需的方法即可。
 
 
 ## 9.1 对象表示形式
