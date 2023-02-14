@@ -128,30 +128,3 @@ class AddableBingoCage(BingoCage):
 ```
 
 一般来说，如果中缀运算符的正向方法(如 `__mul__`)只处理与 self 属于同 一类型的操作数，那就无需实现对应的反向方法(如 `__rmul__`)，因为按照 定义，反向方法是为了处理类型不同的操作数。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-![6](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230212/6.png)
-```
