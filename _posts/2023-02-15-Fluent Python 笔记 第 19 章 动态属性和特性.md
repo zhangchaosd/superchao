@@ -1,5 +1,5 @@
 ---
-title: Fluent Python 笔记 第 18 章 动态属性和特性
+title: Fluent Python 笔记 第 19 章 动态属性和特性
 tags: Python
 pageview: true
 ---
