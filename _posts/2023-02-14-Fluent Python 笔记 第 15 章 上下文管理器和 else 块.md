@@ -101,11 +101,3 @@ contextlib.contextmanager 装饰器会把函数包装成实现 `__enter__` 和 `
 (1) 检查有没有把异常传给 `exc_type`;如果有，调用 `gen.throw(exception)`，在生成器函数定义体中包含 `yield` 关键字的那一行抛出异常。
 
 (2) 否则，调用 `next(gen)`，继续执行生成器函数定义体中 yield 语句之后的代码。
-
-
-
-
-
-
-
-![9](https://github.com/zhangchaosd/superchao/raw/master/_posts/assets/20230212/9.png)
