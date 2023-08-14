@@ -25,9 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
-[点击查看 PDF](resumes/ZhangChao_cv_cn.pdf)
-<!-- <iframe src="resumes/ZhangChao_cv_cn.pdf" width="100%" height="500px">
-</iframe> -->
+[点击查看个人简历](/resumes/ZhangChao_cv_cn.pdf)
+[Download Resume here](/resumes/ZhangChao_cv_en.pdf)
+<iframe src="/resumes/ZhangChao_cv_cn.pdf" width="100%" height="500px">
+</iframe>
 
 
 <!-- ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
