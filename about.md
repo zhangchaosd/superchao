@@ -25,8 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
-[点击查看个人简历](/resumes/ZhangChao_cv_cn.pdf)
-[Download Resume here](/resumes/ZhangChao_cv_en.pdf)
+[下载个人简历](/resumes/ZhangChao_cv_cn.pdf)
+
+[Download English Resume](/resumes/ZhangChao_cv_en.pdf)
+
 <iframe src="/resumes/ZhangChao_cv_cn.pdf" width="100%" height="500px">
 </iframe>
 
