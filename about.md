@@ -26,8 +26,8 @@ titles:
 key: page-about
 ---
 [点击查看 PDF](resumes/ZhangChao_cv_cn.pdf)
-<iframe src="resumes/ZhangChao_cv_cn.pdf" width="100%" height="500px">
-</iframe>
+<!-- <iframe src="resumes/ZhangChao_cv_cn.pdf" width="100%" height="500px">
+</iframe> -->
 
 
 <!-- ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
